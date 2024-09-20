@@ -1,0 +1,2 @@
+ninja: Entering directory `Z:\Oleg\Android\OpenCVCameraXiaomiMiMax2\openCv\.cxx\Debug\47654j2u\arm64-v8a'
+ninja: no work to do.
