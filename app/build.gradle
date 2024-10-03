@@ -35,6 +35,8 @@ dependencies {
     implementation libs.activity
     implementation libs.constraintlayout
     implementation project(':openCv')
+    implementation libs.play.services.mlkit.face.detection
+    implementation libs.play.services.vision.common
     testImplementation libs.junit
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
